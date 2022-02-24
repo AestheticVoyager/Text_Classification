@@ -10,6 +10,7 @@ Text classification is one of the fundamental tasks in natural language processi
 
 # Requirements
 Python3
-TensorFlow
+
+TensorFlow & TensorFlow(keras)
+
 numpy
-TensorFlow(Keras)
