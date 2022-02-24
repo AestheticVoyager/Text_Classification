@@ -7,3 +7,9 @@ Text classifiers can be used to organize, structure, and categorize pretty much 
 For example, new articles can be organized by topics; support tickets can be organized by urgency; chat conversations can be organized by language; brand mentions can be organized by sentiment; and so on.
 
 Text classification is one of the fundamental tasks in natural language processing with broad applications such as sentiment analysis, topic labeling, spam detection, and intent detection.
+
+# Requirements
+Python3
+TensorFlow
+numpy
+TensorFlow(Keras)
